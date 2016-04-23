@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[abnormal bitterness]]></title>
         <description><![CDATA[abnormal bitterness]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/abnormal-bitterness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 21:35:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 21:35:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/abnormal-bitterness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="http://printedbysomerset.com this site is amazing! click on the things and stop motion and ! via @adrienthspic.twitter.com/KHR7MVQOnW" src="https://pbs.twimg.com/media/Cdx-354UkAAEvfL.jpg:large">]]></description>
+            <link>https://twitter.com/littlenono/status/710582341010219008</link>
+            <guid isPermaLink="false">24970889-c8d2-4587-b05e-980ced349975</guid>
+            <pubDate>Sat, 23 Apr 2016 21:35:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Super stylli: our pick of the finest (and most stylish) smart-pens.]]></title>
             <description><![CDATA[<article><h1>Super stylli: our pick of the finest (and most stylish) smart-pens.</h1><p>Before touchpads, the stylus was at the cutting edge of data entry. And while designers and CAD operators remain devoted to the device, the advent of the touchscreen has sparked fresh interest in stylish stylii. Silicon Valley's big players are now rolling out a new era of smart stationery.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e8ee90cdb71d0172520dfe163b9d60343600194.jpg"></article>]]></description>
