@@ -12,3 +12,6 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
 name: abnormal bitterness
+navigation:
+  - url: google.com
+    title: About
