@@ -30,10 +30,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.wired.com/2016/07/watching-attempted-turkish-coup-unfold-twitter/'
 title: Watching the Attempted Turkish Coup Unfold on Twitter
-datePublished: '2016-07-15T21:26:11.865Z'
-dateModified: '2016-07-15T21:25:59.769Z'
-starred: false
+datePublished: '2016-07-17T04:48:20.512Z'
+dateModified: '2016-07-16T19:45:32.949Z'
 sourcePath: _posts/2016-07-15-watching-the-attempted-turkish-coup-unfold-on-twitter.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
