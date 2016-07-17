@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-15T04:43:33.015Z'
+datePublished: '2016-07-17T04:57:27.029Z'
 sourcePath: >-
   _posts/2016-04-16-100-stunning-picture-quotes-that-will-supercharge-your-creat.md
 inFeed: true
@@ -18,7 +18,7 @@ keywords:
   - text
 related: []
 author: []
-dateModified: '2016-06-20T07:32:28.053Z'
+dateModified: '2016-07-16T19:45:32.856Z'
 title: 100 Stunning Picture Quotes That Will Supercharge Your Creativity
 app_links: []
 publisher:
