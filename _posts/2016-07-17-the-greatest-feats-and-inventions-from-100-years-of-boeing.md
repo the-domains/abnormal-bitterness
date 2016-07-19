@@ -27,16 +27,14 @@ description: >-
   more than a few world-changing machines.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://www.wired.com/2016/07/greatest-feats-inventions-100-years-boeing/'
 title: The Greatest Feats and Inventions From 100 Years of Boeing
-datePublished: '2016-07-17T07:23:48.721Z'
-dateModified: '2016-07-15T21:18:37.763Z'
-starred: false
+datePublished: '2016-07-19T08:02:42.265Z'
+dateModified: '2016-07-19T08:02:41.712Z'
 sourcePath: >-
   _posts/2016-07-17-the-greatest-feats-and-inventions-from-100-years-of-boeing.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: the-greatest-feats-and-inventions-from-100-years-of-boeing/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
