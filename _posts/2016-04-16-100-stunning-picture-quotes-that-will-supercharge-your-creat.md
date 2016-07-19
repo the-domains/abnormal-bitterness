@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-07-17T04:57:27.029Z'
+datePublished: '2016-07-19T07:56:13.835Z'
 sourcePath: >-
   _posts/2016-04-16-100-stunning-picture-quotes-that-will-supercharge-your-creat.md
 inFeed: true
-isBasedOnUrl: 'https://designschool.canva.com/blog/picture-quotes/'
-hasPage: false
+hasPage: true
 keywords:
   - quotes
   - graphic
@@ -18,7 +17,7 @@ keywords:
   - text
 related: []
 author: []
-dateModified: '2016-07-16T19:45:32.856Z'
+dateModified: '2016-07-19T07:56:13.319Z'
 title: 100 Stunning Picture Quotes That Will Supercharge Your Creativity
 app_links: []
 publisher:
@@ -30,6 +29,7 @@ description: Find your next favorite quote rendered in stunning graphic design.
 inLanguage: en
 inNav: false
 starred: false
+url: 100-stunning-picture-quotes-that-will-supercharge-your-creat/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
