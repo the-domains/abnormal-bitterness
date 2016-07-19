@@ -12,4 +12,8 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
 name: abnormal bitterness
-navigation: []
+navigation:
+  - id: 90c0070f-c08a-4b27-930f-fe1dad65484c
+    url: 2016-04-16-super-stylli-our-pick-of-the-finest-and-most-stylish-smar.html
+    name: 'Super stylli: our pick of the finest (and most stylish) smart-pens.'
+    type: content
