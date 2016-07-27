@@ -1,4 +1,3 @@
-layout_spectrum: 0.08849682239815593
 typography_spectrum: 0.42366839153692126
 color:
   brandStrength: 0.6191576360724866
@@ -11,18 +10,16 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.08849682239815593
 name: abnormal bitterness
 navigation:
   - id: c09b68b3-8210-472e-97ac-51046fa6b7dd
-    url: >-
-      2016-04-16-100-stunning-picture-quotes-that-will-supercharge-your-creat.html
     name: Picture Quotes To Supercharge Your Creativity
     type: content
   - id: 90c0070f-c08a-4b27-930f-fe1dad65484c
-    url: 2016-04-16-super-stylli-our-pick-of-the-finest-and-most-stylish-smar.html
     name: our pick of the finest
     type: content
   - id: 42e9ebc5-424e-494c-ada4-0fe79e5f7856
-    url: 2016-07-17-the-greatest-feats-and-inventions-from-100-years-of-boeing.html
     name: 100 Years of Boeing
     type: content
+title: Amazing Headline For the Site
