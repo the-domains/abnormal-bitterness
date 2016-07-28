@@ -13,13 +13,13 @@ color:
 layout_spectrum: 0.08849682239815593
 name: abnormal bitterness
 navigation:
+  - id: 42e9ebc5-424e-494c-ada4-0fe79e5f7856
+    name: 100 Years of Boeing
+    type: content
   - id: c09b68b3-8210-472e-97ac-51046fa6b7dd
     name: Picture Quotes To Supercharge Your Creativity
     type: content
   - id: 90c0070f-c08a-4b27-930f-fe1dad65484c
     name: our pick of the finest
-    type: content
-  - id: 42e9ebc5-424e-494c-ada4-0fe79e5f7856
-    name: 100 Years of Boeing
     type: content
 title: ''
