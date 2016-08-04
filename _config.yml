@@ -24,3 +24,8 @@ navigation:
     type: content
 title: Abnormal is the new normal
 description: Don't rain on my parade
+purpose:
+  - id: d1e4e419-c183-4949-838d-99d3ac7da38a
+    type: external
+    value: 'http://tympanus.net/Development/MorphingDevices/'
+    label: Sign-up
