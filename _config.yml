@@ -19,7 +19,11 @@ social_links:
   facebook: 'https://www.facebook.com/sam.ghadiri?hc_ref=NEWSFEED'
   twitter: 'https://www.facebook.com/sam.ghadiri?hc_ref=NEWSFEED'
   instagram: 'https://www.facebook.com/sam.ghadiri?hc_ref=NEWSFEED'
-profiles: []
+profiles:
+  - id: 4ad4a11d-71ab-488e-a3c8-1a8c8bb4aa44
+    name: SpaceX landing
+    type: content
+    rel: footer
 name: abnormal bitterness
 navigation:
   - name: our pick of the finest
