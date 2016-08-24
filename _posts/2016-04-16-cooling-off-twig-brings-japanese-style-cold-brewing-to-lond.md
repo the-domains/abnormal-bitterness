@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-07-30T06:23:32.834Z'
+datePublished: '2016-08-24T22:32:57.107Z'
 sourcePath: >-
   _posts/2016-04-16-cooling-off-twig-brings-japanese-style-cold-brewing-to-lond.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.wallpaper.com/lifestyle/twig-brings-japanese-style-cold-brewing-to-london
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - tea
   - twig
@@ -22,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-16T00:52:49.400Z'
+dateModified: '2016-08-24T22:32:56.374Z'
 title: 'Cooling off: TWIG brings Japanese-style cold brewing to London'
 app_links: []
 publisher:
@@ -37,7 +35,9 @@ description: >-
   own London-based company, TWIG Teas.
 inLanguage: en
 inNav: false
+via: {}
 starred: false
+url: cooling-off-twig-brings-japanese-style-cold-brewing-to-lond/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
