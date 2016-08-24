@@ -15,6 +15,11 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
 layout_spectrum: 0.08849682239815593
+profiles:
+  - id: 61c409d4-ecc9-4f47-a45c-4caed4efc9e9
+    name: Japanese-style cold brews
+    type: content
+    rel: footer
 name: abnormal bitterness
 navigation:
   - name: our pick of the finest
