@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-07-17T07:19:45.999Z'
+datePublished: '2016-08-24T23:32:01.580Z'
 sourcePath: >-
   _posts/2016-04-16-new-spacex-landing-photos-make-you-feel-like-the-rocket-is-c.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.theverge.com/2016/4/12/11415518/spacex-rocket-landing-close-up-photos-falcon-9
-hasPage: false
+hasPage: true
 keywords:
   - google
   - emoji
@@ -22,7 +20,7 @@ author:
   - name: Loren Grush
     url: 'http://www.theverge.com/users/lorengrush'
     avatar: {}
-dateModified: '2016-06-13T23:32:33.352Z'
+dateModified: '2016-08-24T23:31:59.106Z'
 title: >-
   New SpaceX landing photos make you feel like the rocket is coming down on top
   of you
@@ -38,7 +36,9 @@ description: >-
   view of the milestone event, but now, S...
 inLanguage: en
 inNav: false
+via: {}
 starred: false
+url: new-spacex-landing-photos-make-you-feel-like-the-rocket-is-c/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
