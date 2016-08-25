@@ -33,6 +33,11 @@ profiles:
     name: About Us
     type: external
     rel: footer
+  - url: >-
+      http://localhost:3000/app/footer-nav/url?siteID=1fc3477b-ece3-43d1-90e5-ad00e13885cfsss
+    name: Best of
+    type: external
+    rel: footer
 name: abnormal bitterness
 navigation:
   - name: our pick of the finest
