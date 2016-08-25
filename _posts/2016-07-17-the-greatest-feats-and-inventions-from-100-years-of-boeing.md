@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-14T22:55:55.187Z'
+datePublished: '2016-08-25T05:15:40.421Z'
 sourcePath: >-
   _posts/2016-07-17-the-greatest-feats-and-inventions-from-100-years-of-boeing.md
 hasPage: true
@@ -19,7 +19,7 @@ author:
   - name: Jack Stewart
     url: 'https://www.wired.com/author/jackstewart/'
     avatar: {}
-dateModified: '2016-08-14T22:55:54.777Z'
+dateModified: '2016-08-25T05:15:39.948Z'
 title: The 20 Greatest Feats and Inventions From 100 Years of Boeingsadfasdf
 app_links: []
 publisher:
