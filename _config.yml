@@ -24,6 +24,10 @@ profiles:
     name: SpaceX landing
     type: content
     rel: footer
+  - id: 42e9ebc5-424e-494c-ada4-0fe79e5f7856
+    name: 20 Greatest Feats of Boeing
+    type: content
+    rel: footer
 name: abnormal bitterness
 navigation:
   - name: our pick of the finest
